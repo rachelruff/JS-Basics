@@ -6,11 +6,22 @@ var name = 'Tyler';
 
   //Code Here
 
+var isTyler = function(name){
+  if (name === 'Tyler'){
+    return true;
+  }else{
+    return false;
+  }
+};
+
 //////////////////PROBLEM 2////////////////////
 
 
 //Create a function called getName that uses prompt() to prompt the user for their name, then returns the name.
 
+var getName = function(){
+return prompt()
+}
 
   //Code Here
 
