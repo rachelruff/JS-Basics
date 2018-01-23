@@ -52,7 +52,7 @@ console.log(welcome());
 //Create a function called myName that returns your name
 
 //Code Here
-let myName = () => "Rachel";
+let myName = () => "Rache";
 
 //Now save the function definition of myName into a new variable called newMyName
 
